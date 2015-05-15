@@ -1,5 +1,5 @@
 {
-  "name": "jdbc",
+  "name": "jdbc-sindicetech",
   "version": "0.0.14-pre",
   "description": "Node Module JDBC wrapper",
   "main": "index.js",
